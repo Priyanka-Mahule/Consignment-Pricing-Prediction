@@ -1,4 +1,3 @@
-.dvcignore
-env/
-config.cfg
-dvc.lock
+/config.local
+/tmp
+/cache
